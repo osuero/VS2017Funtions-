@@ -1,0 +1,11 @@
+\\svrwfileserver\perfiles\octavio.augusto\Documents\Visual Studio 2017\Projects\LocalFunctions\LocalFunctions\bin\Debug\netcoreapp2.1\LocalFunctions.deps.json
+\\svrwfileserver\perfiles\octavio.augusto\Documents\Visual Studio 2017\Projects\LocalFunctions\LocalFunctions\bin\Debug\netcoreapp2.1\LocalFunctions.runtimeconfig.json
+\\svrwfileserver\perfiles\octavio.augusto\Documents\Visual Studio 2017\Projects\LocalFunctions\LocalFunctions\bin\Debug\netcoreapp2.1\LocalFunctions.runtimeconfig.dev.json
+\\svrwfileserver\perfiles\octavio.augusto\Documents\Visual Studio 2017\Projects\LocalFunctions\LocalFunctions\bin\Debug\netcoreapp2.1\LocalFunctions.dll
+\\svrwfileserver\perfiles\octavio.augusto\Documents\Visual Studio 2017\Projects\LocalFunctions\LocalFunctions\bin\Debug\netcoreapp2.1\LocalFunctions.pdb
+\\svrwfileserver\perfiles\octavio.augusto\Documents\Visual Studio 2017\Projects\LocalFunctions\LocalFunctions\obj\Debug\netcoreapp2.1\LocalFunctions.csprojAssemblyReference.cache
+\\svrwfileserver\perfiles\octavio.augusto\Documents\Visual Studio 2017\Projects\LocalFunctions\LocalFunctions\obj\Debug\netcoreapp2.1\LocalFunctions.csproj.CoreCompileInputs.cache
+\\svrwfileserver\perfiles\octavio.augusto\Documents\Visual Studio 2017\Projects\LocalFunctions\LocalFunctions\obj\Debug\netcoreapp2.1\LocalFunctions.AssemblyInfoInputs.cache
+\\svrwfileserver\perfiles\octavio.augusto\Documents\Visual Studio 2017\Projects\LocalFunctions\LocalFunctions\obj\Debug\netcoreapp2.1\LocalFunctions.AssemblyInfo.cs
+\\svrwfileserver\perfiles\octavio.augusto\Documents\Visual Studio 2017\Projects\LocalFunctions\LocalFunctions\obj\Debug\netcoreapp2.1\LocalFunctions.dll
+\\svrwfileserver\perfiles\octavio.augusto\Documents\Visual Studio 2017\Projects\LocalFunctions\LocalFunctions\obj\Debug\netcoreapp2.1\LocalFunctions.pdb
